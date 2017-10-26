@@ -5,8 +5,8 @@ public class QuadratischeGleichung {
 	public static void main(String[] args) {
 		
 
-		double p = 10;
-		double q = 2;
+		double p = 8;
+		double q = 15;
 		
 		double unterWurzel = ((p/2))*((p/2))-q;
 		double vorderWurzel1 = ((-p/2))+Math.sqrt(unterWurzel);
