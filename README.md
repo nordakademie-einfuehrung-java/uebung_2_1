@@ -5,3 +5,4 @@
 - Erstellen Sie eine Klasse mit dem Namen „PQFormel“ (wie bereits bekannt)
 - Richten Sie eine Laufzeitumgebung ein
 - Starten Sie das Programm
+
